@@ -1,5 +1,5 @@
 x = 3+5j
-y = 888888886j
+y = 6j
 z = -5j
 
 print(type(x))
